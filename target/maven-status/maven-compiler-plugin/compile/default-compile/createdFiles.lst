@@ -1,0 +1,15 @@
+com\codewithmosh\store\entities\Address$AddressBuilder.class
+com\codewithmosh\store\repositories\UserRepository.class
+com\codewithmosh\store\StoreApplication.class
+com\codewithmosh\store\entities\Profile$ProfileBuilder.class
+com\codewithmosh\store\entities\Product$ProductBuilder.class
+com\codewithmosh\store\entities\Address.class
+com\codewithmosh\store\repositories\ProfileRepository.class
+com\codewithmosh\store\entities\Category.class
+com\codewithmosh\store\entities\User$UserBuilder.class
+com\codewithmosh\store\repositories\AddressRepository.class
+com\codewithmosh\store\entities\Product.class
+com\codewithmosh\store\repositories\ProductRepository.class
+com\codewithmosh\store\entities\Profile.class
+com\codewithmosh\store\entities\User.class
+com\codewithmosh\store\repositories\CategoryRepository.class
